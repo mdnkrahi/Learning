@@ -1,3 +1,32 @@
+
+# **AI/ML Ops Roadmap**  
+
+
+### **Phase 1: Core Python (Building Blocks)**
+Jaise **alphabet aur chhote sentences** seekhna.  
+Variables, loops, functions, decorators, testing wagairah.  
+
+
+### **Phase 2: Data Handling (Badi Tables)**
+Jaise **school ka bada register** banana.  
+NumPy (tez numbers), Pandas & Polars (racing car tables), Graphs banana.  
+
+### **Phase 3: Machine Learning (Computer Ko Sikhaana)**
+Computer ko **basic teacher** banana.  
+Scikit-learn, statistics, alag-alag models try karna (experimentation).  
+
+### **Phase 4: Deep Learning & Computer Vision (Bada Smart Brain)**
+Computer ko **insaan jaisa dimag** dena.  
+PyTorch (magic brain), Photos dekhna (YOLO, SAM 2), Words samajhna (Transformers).  
+
+### **Phase 5: MLOps (Asli Duniya Mein Use Karna)**
+Jo banaya hai usko **strong dukaan** banana.  
+Docker (box packing), FastAPI (dukaan), Monitoring (doctor), Cloud.  
+
+---
+
+
+
 ## **Phase 1: Advanced Core Python & Software Engineering** 
 
 ### Python Kya Hai? (Simple Story)
