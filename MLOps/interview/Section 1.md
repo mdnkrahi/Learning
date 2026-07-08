@@ -2,7 +2,9 @@
 # Section 1
 
 
-**1. Machine Learning kya hai aur seekhne ke alag-alag tareeke**
+
+
+## **1. Machine Learning kya hai aur seekhne ke alag-alag tareeke**
 
 Machine Learning ka matlab hai ki computer program data dekh kar khud seekh leta hai. Usse har chhoti baat ke liye insaan ko instructions nahi dene padte.
 
@@ -33,18 +35,33 @@ print(simple_predict("yellow", "curved"))
 
 Jab tum ye code chalaoge to pehla line “apple” aur dusra “banana” print karega. Kyunki humne computer ko examples diye the.
 
-**2. Bias-Variance Tradeoff**
+
+
+---
+
+
+## **2. Bias-Variance Tradeoff**
 
 Soch lo do bacchon ki baat. Ek bachcha sirf do strict niyam yaad rakhta hai aur har sawal par wahi lagata hai – aksar galat ho jaata hai. Dusra bachcha har practice sawal ka exact jawab ratta maar leta hai – naya sawal aane par confuse ho jaata hai.  
 
 Achha model dono ke beech ka balance rakhta hai – na bahut strict, na bahut zyada yaad rakhne wala.
 
-**3. Parametric aur Non-parametric Model**
+
+
+---
+
+
+## **3. Parametric aur Non-parametric Model**
 
 Parametric model ke andar nischit number of “knobs” hote hain jo seekhne hote hain, jaise simple formula. Ek baar numbers seekh liye to kaam ho gaya.  
 Non-parametric model data badhne ke saath aur bada aur complex ho sakta hai, jaise ek ped jisme nayi shakhaen lagti rahti hain.
 
-**4. Overfitting aur Underfitting**
+
+
+---
+
+
+## **4. Overfitting aur Underfitting**
 
 Underfitting: Model bahut simple hai, usne data se kam seekha. Jaise bachcha bilkul nahi padha aur exam mein fail ho gaya.  
 
@@ -52,13 +69,23 @@ Overfitting: Model training ke examples ko itna achhe se yaad kar leta hai ki na
 
 Isko theek karne ke liye hum model ko naye-naye examples dete hain aur test karte hain.
 
-**5. Cross-Validation**
+
+
+---
+
+
+## **5. Cross-Validation**
 
 Beta, final exam se pehle achha bachcha 5 alag-alag practice papers karta hai. Har baar ek paper alag rakh kar check karta hai aur baaki 4 se padhta hai. Phir average nikaalta hai. Isse pata chalta hai ki asli taiyaari kitni achhi hai.  
 
 Machine learning mein bhi data ko alag-alag hisson mein baant kar yahi kaam karte hain.
 
-**6. Machine Learning Project ka Poora Life Cycle**
+
+
+---
+
+
+## **6. Machine Learning Project ka Poora Life Cycle**
 
 Jaise main ghar mein naya khana banati hoon:  
 1. Pehle decide karti hoon kya banana hai (problem samajhna)  
@@ -69,25 +96,45 @@ Jaise main ghar mein naya khana banati hoon:
 6. Table par sundar tarike se rakh deti hoon (model deploy karna)  
 7. Agli baar kya behtar karna hai sochti hoon (monitor aur improve karna)
 
-**7. Curse of Dimensionality**
+
+
+---
+
+
+## **7. Curse of Dimensionality**
 
 Soch lo tumhara ek chhota sa khilona chhote room ke 5 box mein hai – dhundna bahut easy. Ab wahi khilona 1000 shelf aur har shelf mein 1000 drawer wale bade godam mein chhupa hai – bahut mushkil ho jaata hai.  
 
 Machine learning mein bhi jab har cheez ke paas bahut saare measurements (features) hote hain to space itna bada ho jaata hai ki pattern dhundna mushkil ho jaata hai.
 
-**8. Classification aur Regression**
+
+
+---
+
+
+## **8. Classification aur Regression**
 
 Classification: Cheezon ko naam wale groups mein daalna. Jaise seb wala box, kela wala box, aam wala box. Jawab ek naam hota hai.  
 
 Regression: Ek number ka anuman lagana. Jaise phal ka wazan gram mein bataana. Jawab ek number hota hai.
 
-**9. Probability aur Statistics ki role**
+
+
+---
+
+
+## **9. Probability aur Statistics ki role**
 
 Machine learning aksar “kitni sambhavna” ke hisaab se jawab deti hai. Jaise main tumse kehti hoon “aaj 70% barish hone ki sambhavna hai”. Ye number past data se nikalta hai.  
 
 Statistics madad karti hai data ikattha karne aur uska matlab samajhne mein, jaise class mein kitne bachche aam pasand karte hain ya average marks kya hai.
 
-**10. Inductive Bias**
+
+
+---
+
+
+## **10. Inductive Bias**
 
 Har seekhne ke tareeke ke andar kuchh pehle se hi vichar hote hain ki duniya kaise kaam karti hai. Ye vichar seekhne mein madad karte hain lekin kabhi limit bhi laga dete hain.  
 
