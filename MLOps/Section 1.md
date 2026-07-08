@@ -1,4 +1,6 @@
+
 # Section 1
+
 
 **1. Machine Learning kya hai aur seekhne ke alag-alag tareeke**
 
@@ -92,5 +94,3 @@ Har seekhne ke tareeke ke andar kuchh pehle se hi vichar hote hain ki duniya kai
 Jaise ek tareeka maanta hai ki har faisla ek-ek cheez ke haan-na ke sawal se liya ja sakta hai. Isliye woh jaldi seekh leta hai lekin kuchh complicated baatein miss kar sakta hai.
 
 ---
-
-Beta, ab tumhe har baat bahut simple lagni chahiye. Main ne dheere-dheere, chhote-chhote udaharan se samjhaya hai. Agar koi ek number wala point phir se sunna ho, ya aur simple examples chahiye, ya koi code ka matlab aur detail mein samajhna ho to bas bol dena. Main phir se pyar se samjha dungi. Samajh aa gaya na? 😊
